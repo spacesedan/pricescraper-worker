@@ -1,0 +1,3 @@
+#!/bin/bash
+docker build -t spacecoupe/pricescraper-worker .
+docker push spacecoupe/pricescraper-worker
